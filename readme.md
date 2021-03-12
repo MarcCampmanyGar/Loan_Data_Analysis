@@ -5,7 +5,7 @@
 ## Dataset
 
 > - In this project the main goal has been to analyze the features related mainly to the _Borrower's APR_ (annual interest rate charged). The variables studied have been the _Original Loan Amount, Borrower's Prosper Rating, Loan Term, Borrower's Income Range, Employment Status, Occupation and aim of the loan_.
-> - The original data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. After cleaning operations, the dataset studied contains 83.968 unique loans with 15 related features.
+> - The original data set ('prosperLoanData.csv') contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. After cleaning operations, the dataset studied contains 83.968 unique loans with 15 related features ('LoanData_cleaned.csv')
 
 
 ## Initial hypothesis
